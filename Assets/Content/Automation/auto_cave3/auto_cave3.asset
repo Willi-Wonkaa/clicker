@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fd9ae9bfa393094286c10bac1d0ca7e, type: 3}
+  m_Name: auto_cave3
+  m_EditorClassIdentifier: 
+  automation_to_item: {fileID: 11400000, guid: 59f93f5b9f5f4e5498520985f47fff07, type: 2}
+  automation: {fileID: 0}
+  automated_items:
+  - {fileID: 11400000, guid: 43bad04cc53a9c4499e122f781702ae0, type: 2}
+  - {fileID: 11400000, guid: 58724f07641db524992f43d8123c6f55, type: 2}
+  - {fileID: 11400000, guid: e74183930119ce14c88be9b57deb23d1, type: 2}

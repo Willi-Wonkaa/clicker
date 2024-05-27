@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db9f89fb7da42e24a9ec8e55ed902055, type: 3}
+  m_Name: stone
+  m_EditorClassIdentifier: 
+  type: 0
+  is_tech: 1
+  is_tool: 1
+  is_automation: 1
+  digging_lvl: 0
+  digging_time: 1
+  icon: {fileID: 21300000, guid: 9338dec397ebbb34189d8fbad047d826, type: 3}
+  item_name: stone
+  is_can_spawn: 1
+  loot_item: {fileID: 11400000, guid: d3b3a28fe9958f6419f00ee755a21145, type: 2}
+  is_can_craft: 1
+  craft_item:
+  - {fileID: 11400000, guid: 07736a4f5c64bcc42a133070935f787d, type: 2}
+  - {fileID: 11400000, guid: d3b3a28fe9958f6419f00ee755a21145, type: 2}
+  craft_count: 0100000001000000
+  getting_count: 1
+  is_allow_to_spawn: 1
+  is_allow_to_create: 0
+  item_to_tech: {fileID: 0}
+  item_to_tool: {fileID: 11400000, guid: 9b9bbd606a0121b47927b41a6f41c1bc, type: 2}
+  item_to_automation: {fileID: 0}

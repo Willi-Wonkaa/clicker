@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 162ae02fe1daaf249b45deb1835baf7f, type: 3}
+  m_Name: iron_hoe
+  m_EditorClassIdentifier: 
+  tool_to_item: {fileID: 11400000, guid: ab6fd8ca1df32574b9fb301009b57384, type: 2}
+  type: 0
+  power: 3
+  item_name: 
+  location_for_spawn_items_tag: farm
+  opens_items_to_spawn: []
